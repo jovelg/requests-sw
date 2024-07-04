@@ -1,0 +1,1 @@
+a script from John Watson Rooney's YouTube channel that uses selenium wire to view the network requests from a site and provides a list of urls and json responses.
